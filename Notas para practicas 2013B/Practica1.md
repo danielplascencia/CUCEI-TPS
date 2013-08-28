@@ -1,4 +1,4 @@
-# Notas para la practica1 en ciclo 2013A
+# Notas para la practica1 en ciclo 2013B
 
 ## De la practica
 1. Las líneas en blanco también se cuentan para la numeración
@@ -11,3 +11,4 @@
 ## Del código
 1. La validación de etiqueta, código de operación y operando se deben realizar con expresiones regulares
 1. Deben trabajar con clases, de modo que mínimo debe existir la clase Linea con sus atributos etiqueta, codigo, operando y sus métodos validarEtiqueta, validarCodigo y validarOperando
+1. Si requieres acumular cosas, utiliza vectores, pilas o colas, pero evita los arreglos a menos que sea necesario.
